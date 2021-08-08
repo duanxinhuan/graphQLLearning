@@ -2,7 +2,7 @@
 A learning repo for graphql, LOL :) feel free to copy my notes, glhf
 #Schema
 
-## Usage
+## Simple Schema
 
 ```python
 #this is actually not python code, just make it python for convinience!
